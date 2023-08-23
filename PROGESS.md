@@ -1,0 +1,1 @@
+23Aug 53:19 - some lessons and creating the page and layout
