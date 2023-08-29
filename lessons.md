@@ -36,3 +36,7 @@ app - for all pages
 components - for reusable components
 public - for assets (pictures, images, etc)
 styles - for global styles
+
+
+don't set state to not current state. Use a callback function with prev
+ex: toggleDropdown((prev)=> (!prev))
