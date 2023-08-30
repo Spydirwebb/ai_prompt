@@ -26,6 +26,8 @@ use route.js in folder.
 Ex: app/user/page.js = frontend page rendering
     api/user/route.js = backend request endpoints
 
+route will only be running for the time that it is called
+
 
 --- improve SEO --------------------------------
 static metadata
