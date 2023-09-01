@@ -2,3 +2,4 @@
 24Aug 1:08:32 - Page and layout filled. Components created. Fleshing out nav with sign in and sign out using nextauth
 29Aug 1:17:52 - Nav created with desktop and mobile layouts. Provider component filled out. 
 30Aug 1:41:09 - Log in logic with mongoose is created. Testing is next
+01Sep 1:45:20 - providers work, sign in works with OAuth
