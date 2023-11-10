@@ -4,3 +4,4 @@
 30Aug 1:41:09 - Log in logic with mongoose is created. Testing is next
 01Sep 1:45:20 - providers work, sign in works with OAuth
 06Sep 1:45:20 - sign in rejects after selecting an email. Could be because of localhost?
+09Nov 1:45:20 - still stuck on reject. Cannot seem to find a way around it. Abandoning it for now
